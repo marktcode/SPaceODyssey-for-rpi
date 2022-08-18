@@ -1,5 +1,4 @@
 #Space Odyssey
-
 A unix command line filter for displaying time-series data.
 
 See pdf documentation giving examples of the data format.
